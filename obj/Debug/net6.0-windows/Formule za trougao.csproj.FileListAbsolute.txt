@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\bin\Debug\net6.0-windows\Formule za trougao.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\bin\Debug\net6.0-windows\Formule za trougao.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\bin\Debug\net6.0-windows\Formule za trougao.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\bin\Debug\net6.0-windows\Formule za trougao.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\bin\Debug\net6.0-windows\Formule za trougao.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule_za_trougao.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\refint\Formule za trougao.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\Formule za trougao.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Formule za trougao\Formule za trougao\obj\Debug\net6.0-windows\ref\Formule za trougao.dll
